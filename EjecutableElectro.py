@@ -42,6 +42,7 @@ arrayelectro.append(tele03)
 
 
 
+print(arrayelectro[0].precioFinal())
 
 
 
